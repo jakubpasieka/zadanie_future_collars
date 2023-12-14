@@ -1,5 +1,5 @@
 zwrotka-1
 refren-1
 zwrotka-2
-refren-2
 zwrotka-3
+Punkt 6 troche mnie nie dotyczyl, wiec ja zamast tego scalilem dwa rozne refreny do pliku refren-1.
