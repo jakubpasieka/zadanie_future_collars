@@ -1,0 +1,606 @@
+commit 428d19446e13e5f1c6ee91cbe677cf88d53b67c7
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 22:08:55 2023 +0100
+
+    W ramach punktu 6. scalenie dwoch refrenow w jeden
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 5466bba..4994942 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,5 +1,5 @@
+ zwrotka-1
+ refren-1
+ zwrotka-2
+-refren-2
+ zwrotka-3
++Punkt 6 troche mnie nie dotyczyl, wiec ja zamast tego scalilem dwa rozne refreny do pliku refren-1.
+
+commit e7616d9ee3d57eda26a2c5713ce5695e30138504
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:39:50 2023 +0100
+
+    Wyciecie trzeciej zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 89d7751..5466bba 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,47 +2,4 @@ zwrotka-1
+ refren-1
+ zwrotka-2
+ refren-2
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Badz a klekne
+-No i podaj mi dlon podaj mi reke
+-Podaj mi dlon
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Badz a klekne
+-No i Podaj mi dlon i podaj mi reke
+-Podaj mi dlon
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Badz a klekne
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu czemu oczywiste dla mnie jest ze ciebie nie ma
+-No i podaj mi dlon
+-I podaj mi dlon
+-A podaj mi dlon
+-A podaj mi dlon
+-Podaj mi dlon i podaj mi reke
+-Podaj mi dlon
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Badz a klekne
+-Podaj mi dlon i podaj mi reke
+-Badz a klekne
+-Badz a klekne
+-Badz a klekne
+-Badz a klekne
+-Badz a klekne
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Czemu oczywiste dla mnie jest ze ciebie nie ma
+-Badz a klekne
+-Badz a klekne
+-Badz a klekne
+-Badz a klekne
++zwrotka-3
+
+commit e3addcec322c991936a35082a3e191a469e4dd53
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:37:47 2023 +0100
+
+    Wyciecie drugiego refrenu
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 2d90429..89d7751 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,21 +1,7 @@
+ zwrotka-1
+ refren-1
+ zwrotka-2
+-Biale lepkie babie lato
+-Czarne lepkie babie lato
+-Biale lepkie babie lato
+-Czarne czyste babie lato
+-100 stop nad ziemia wyciagnieta ma dlon
+-Bede mowil dawno wyrzygalem knebel
+-I moj glos i moja Wieza Babel
+-Ja urzadze post otworze drzwi od klatki
+-Ja spojrze na ciebie ja moimi oczami
+-Ja spojrze na ciebie nie oczami mojej matki
+-I zobacze cos A moze tam nic nie ma
+-A moze ktos powie to legenda
+-Ale ze mnie wsza Swietej Pamieci Brat Joka
+-No i No i No i
+-Podaj mi dlon podaj mi reke (podaj mi reke)
++refren-2
+ Czemu oczywiste dla mnie jest ze ciebie nie ma
+ Czemu oczywiste dla mnie jest ze ciebie nie ma
+ Badz a klekne
+
+commit 28ba3a92f2b19c9dd2214cf3205fbbdfa771fa61
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:33:34 2023 +0100
+
+    Wyciecie drugiej zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 58f74d1..2d90429 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,20 +1,6 @@
+ zwrotka-1
+ refren-1
+-Zawsze szybko umieraja tacy jak ja
+-Tacy sami lecz ciagna nitki inny kolor
+-Wiedzcie ze jest
+-Bo ktos musi byc
+-Bo tak latwiej zyc
+-W to mozna uwierzyc
+-Pierdola "do widzenia w piekle
+-Do zobaczenia w piekle"
+-Ona podala mi dlon i ja dla niej klekne
+-Ja dla niej padne
+-Ani slowa ze strony ludzi i ja to odgadlem
+-Mnostwo slow o tobie
+-Mowione pisane czytane i tak sie nie dowiem
+-Bo tajemnica owiane jest to
+-Dobro czy zlo
++zwrotka-2
+ Biale lepkie babie lato
+ Czarne lepkie babie lato
+ Biale lepkie babie lato
+
+commit f87189c9518993d3a5bf770e85d991d7eadc5078
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:30:11 2023 +0100
+
+    Wyciecie pierwszego refrenu
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 99febeb..58f74d1 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,8 +1,5 @@
+ zwrotka-1
+-Przyznaj sie ze ciebie nie ma to legenda
+-Przyznaj sie ze ciebie nie ma to legenda
+-Przyznaj sie ze ciebie nie ma to legenda
+-Przyznaj sie ze ciebie nie ma to legenda
++refren-1
+ Zawsze szybko umieraja tacy jak ja
+ Tacy sami lecz ciagna nitki inny kolor
+ Wiedzcie ze jest
+
+commit eb7216b979e5159a058bf70234158f3770d05eab
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:26:09 2023 +0100
+
+    Wyciecie pierwszej zwrotki
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 3a7cf85..99febeb 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,17 +1,4 @@
+-Czym dla ciebie jest swiat
+-Biale babie lato unoszone przez twoj podmuch
+-Tak ot tak
+-Pokaz skrawek twoich ust
+-Pokaz swoj mozg
+-Moze slowa te za male sa
+-Przeciez jestem tylko lza przeciez jestem tylko wsza
+-Nieliczne czarne babie lato
+-O powiedz mi powiedz powiedz mi powiedz
+-Przeciez ja nie jestem pewien moze oni lza
+-Ojcze! Tato! Jakie twoje imie jest
+-A moze Swietej Pamieci Brat Joka odpowiedz juz zna
+-A moze nie a moze tak
+-A moze tak tak tak tak! Ah
++zwrotka-1
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+
+commit 4f64b746003eb39458e3eb91c727ef56e5ad5070
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:05:40 2023 +0100
+
+    Utworzenie pliku piosenka.txt
+
+diff --git a/piosenka.txt b/piosenka.txt
+new file mode 100644
+index 0000000..3a7cf85
+--- /dev/null
++++ b/piosenka.txt
+@@ -0,0 +1,92 @@
++Czym dla ciebie jest swiat
++Biale babie lato unoszone przez twoj podmuch
++Tak ot tak
++Pokaz skrawek twoich ust
++Pokaz swoj mozg
++Moze slowa te za male sa
++Przeciez jestem tylko lza przeciez jestem tylko wsza
++Nieliczne czarne babie lato
++O powiedz mi powiedz powiedz mi powiedz
++Przeciez ja nie jestem pewien moze oni lza
++Ojcze! Tato! Jakie twoje imie jest
++A moze Swietej Pamieci Brat Joka odpowiedz juz zna
++A moze nie a moze tak
++A moze tak tak tak tak! Ah
++Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
++Zawsze szybko umieraja tacy jak ja
++Tacy sami lecz ciagna nitki inny kolor
++Wiedzcie ze jest
++Bo ktos musi byc
++Bo tak latwiej zyc
++W to mozna uwierzyc
++Pierdola "do widzenia w piekle
++Do zobaczenia w piekle"
++Ona podala mi dlon i ja dla niej klekne
++Ja dla niej padne
++Ani slowa ze strony ludzi i ja to odgadlem
++Mnostwo slow o tobie
++Mowione pisane czytane i tak sie nie dowiem
++Bo tajemnica owiane jest to
++Dobro czy zlo
++Biale lepkie babie lato
++Czarne lepkie babie lato
++Biale lepkie babie lato
++Czarne czyste babie lato
++100 stop nad ziemia wyciagnieta ma dlon
++Bede mowil dawno wyrzygalem knebel
++I moj glos i moja Wieza Babel
++Ja urzadze post otworze drzwi od klatki
++Ja spojrze na ciebie ja moimi oczami
++Ja spojrze na ciebie nie oczami mojej matki
++I zobacze cos A moze tam nic nie ma
++A moze ktos powie to legenda
++Ale ze mnie wsza Swietej Pamieci Brat Joka
++No i No i No i
++Podaj mi dlon podaj mi reke (podaj mi reke)
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++No i podaj mi dlon podaj mi reke
++Podaj mi dlon
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++No i Podaj mi dlon i podaj mi reke
++Podaj mi dlon
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu czemu oczywiste dla mnie jest ze ciebie nie ma
++No i podaj mi dlon
++I podaj mi dlon
++A podaj mi dlon
++A podaj mi dlon
++Podaj mi dlon i podaj mi reke
++Podaj mi dlon
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++Podaj mi dlon i podaj mi reke
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Badz a klekne
+commit 428d19446e13e5f1c6ee91cbe677cf88d53b67c7
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 22:08:55 2023 +0100
+
+    W ramach punktu 6. scalenie dwoch refrenow w jeden
+
+diff --git a/refren-1.txt b/refren-1.txt
+index 60e2a25..df82909 100644
+--- a/refren-1.txt
++++ b/refren-1.txt
+@@ -3,3 +3,18 @@ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
++Biale lepkie babie lato
++Czarne lepkie babie lato
++Biale lepkie babie lato
++Czarne czyste babie lato
++100 stop nad ziemia wyciagnieta ma dlon
++Bede mowil dawno wyrzygalem knebel
++I moj glos i moja Wieza Babel
++Ja urzadze post otworze drzwi od klatki
++Ja spojrze na ciebie ja moimi oczami
++Ja spojrze na ciebie nie oczami mojej matki
++I zobacze cos A moze tam nic nie ma
++A moze ktos powie to legenda
++Ale ze mnie wsza Swietej Pamieci Brat Joka
++No i No i No i
++Podaj mi dlon podaj mi reke (podaj mi reke)
+
+commit eba3489e05f097bc388fcf8f7b3e039493f28b78
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 22:00:32 2023 +0100
+
+    Revert "Usuniecie jednej linijki z refren-1.txt"
+    
+    This reverts commit 915ff36b59c668972110f713454ed3bf16f8349c.
+    Cofniecie usuniecia linijki w refrenie
+
+diff --git a/refren-1.txt b/refren-1.txt
+index e354747..60e2a25 100644
+--- a/refren-1.txt
++++ b/refren-1.txt
+@@ -2,3 +2,4 @@
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
+
+commit 915ff36b59c668972110f713454ed3bf16f8349c
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:43:38 2023 +0100
+
+    Usuniecie jednej linijki z refren-1.txt
+
+diff --git a/refren-1.txt b/refren-1.txt
+index 60e2a25..e354747 100644
+--- a/refren-1.txt
++++ b/refren-1.txt
+@@ -2,4 +2,3 @@
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+ Przyznaj sie ze ciebie nie ma to legenda
+-Przyznaj sie ze ciebie nie ma to legenda
+
+commit f87189c9518993d3a5bf770e85d991d7eadc5078
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:30:11 2023 +0100
+
+    Wyciecie pierwszego refrenu
+
+diff --git a/refren-1.txt b/refren-1.txt
+new file mode 100644
+index 0000000..60e2a25
+--- /dev/null
++++ b/refren-1.txt
+@@ -0,0 +1,5 @@
++
++Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
++Przyznaj sie ze ciebie nie ma to legenda
+commit 428d19446e13e5f1c6ee91cbe677cf88d53b67c7
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 22:08:55 2023 +0100
+
+    W ramach punktu 6. scalenie dwoch refrenow w jeden
+
+diff --git a/refren-2.txt b/refren-2.txt
+index d062549..8b13789 100644
+--- a/refren-2.txt
++++ b/refren-2.txt
+@@ -1,16 +1 @@
+ 
+-Biale lepkie babie lato
+-Czarne lepkie babie lato
+-Biale lepkie babie lato
+-Czarne czyste babie lato
+-100 stop nad ziemia wyciagnieta ma dlon
+-Bede mowil dawno wyrzygalem knebel
+-I moj glos i moja Wieza Babel
+-Ja urzadze post otworze drzwi od klatki
+-Ja spojrze na ciebie ja moimi oczami
+-Ja spojrze na ciebie nie oczami mojej matki
+-I zobacze cos A moze tam nic nie ma
+-A moze ktos powie to legenda
+-Ale ze mnie wsza Swietej Pamieci Brat Joka
+-No i No i No i
+-Podaj mi dlon podaj mi reke (podaj mi reke)
+
+commit e3addcec322c991936a35082a3e191a469e4dd53
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:37:47 2023 +0100
+
+    Wyciecie drugiego refrenu
+
+diff --git a/refren-2.txt b/refren-2.txt
+new file mode 100644
+index 0000000..d062549
+--- /dev/null
++++ b/refren-2.txt
+@@ -0,0 +1,16 @@
++
++Biale lepkie babie lato
++Czarne lepkie babie lato
++Biale lepkie babie lato
++Czarne czyste babie lato
++100 stop nad ziemia wyciagnieta ma dlon
++Bede mowil dawno wyrzygalem knebel
++I moj glos i moja Wieza Babel
++Ja urzadze post otworze drzwi od klatki
++Ja spojrze na ciebie ja moimi oczami
++Ja spojrze na ciebie nie oczami mojej matki
++I zobacze cos A moze tam nic nie ma
++A moze ktos powie to legenda
++Ale ze mnie wsza Swietej Pamieci Brat Joka
++No i No i No i
++Podaj mi dlon podaj mi reke (podaj mi reke)
+commit eb7216b979e5159a058bf70234158f3770d05eab
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:26:09 2023 +0100
+
+    Wyciecie pierwszej zwrotki
+
+diff --git a/zwrotka-1.txt b/zwrotka-1.txt
+new file mode 100644
+index 0000000..4949638
+--- /dev/null
++++ b/zwrotka-1.txt
+@@ -0,0 +1,15 @@
++
++Czym dla ciebie jest swiat
++Biale babie lato unoszone przez twoj podmuch
++Tak ot tak
++Pokaz skrawek twoich ust
++Pokaz swoj mozg
++Moze slowa te za male sa
++Przeciez jestem tylko lza przeciez jestem tylko wsza
++Nieliczne czarne babie lato
++O powiedz mi powiedz powiedz mi powiedz
++Przeciez ja nie jestem pewien moze oni lza
++Ojcze! Tato! Jakie twoje imie jest
++A moze Swietej Pamieci Brat Joka odpowiedz juz zna
++A moze nie a moze tak
++A moze tak tak tak tak! Ah
+commit 28ba3a92f2b19c9dd2214cf3205fbbdfa771fa61
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:33:34 2023 +0100
+
+    Wyciecie drugiej zwrotki
+
+diff --git a/zwrotka-2.txt b/zwrotka-2.txt
+new file mode 100644
+index 0000000..7a04579
+--- /dev/null
++++ b/zwrotka-2.txt
+@@ -0,0 +1,16 @@
++
++Zawsze szybko umieraja tacy jak ja
++Tacy sami lecz ciagna nitki inny kolor
++Wiedzcie ze jest
++Bo ktos musi byc
++Bo tak latwiej zyc
++W to mozna uwierzyc
++Pierdola "do widzenia w piekle
++Do zobaczenia w piekle"
++Ona podala mi dlon i ja dla niej klekne
++Ja dla niej padne
++Ani slowa ze strony ludzi i ja to odgadlem
++Mnostwo slow o tobie
++Mowione pisane czytane i tak sie nie dowiem
++Bo tajemnica owiane jest to
++Dobro czy zlo
+commit e7616d9ee3d57eda26a2c5713ce5695e30138504
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:39:50 2023 +0100
+
+    Wyciecie trzeciej zwrotki
+
+diff --git a/zwrotka-3.txt b/zwrotka-3.txt
+new file mode 100644
+index 0000000..06066f6
+--- /dev/null
++++ b/zwrotka-3.txt
+@@ -0,0 +1,45 @@
++
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++No i podaj mi dlon podaj mi reke
++Podaj mi dlon
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++No i Podaj mi dlon i podaj mi reke
++Podaj mi dlon
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu czemu oczywiste dla mnie jest ze ciebie nie ma
++No i podaj mi dlon
++I podaj mi dlon
++A podaj mi dlon
++A podaj mi dlon
++Podaj mi dlon i podaj mi reke
++Podaj mi dlon
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++Podaj mi dlon i podaj mi reke
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Czemu oczywiste dla mnie jest ze ciebie nie ma
++Badz a klekne
++Badz a klekne
++Badz a klekne
++Badz a klekne
+commit 428d19446e13e5f1c6ee91cbe677cf88d53b67c7
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 22:08:55 2023 +0100
+
+    W ramach punktu 6. scalenie dwoch refrenow w jeden
+
+commit eba3489e05f097bc388fcf8f7b3e039493f28b78
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 22:00:32 2023 +0100
+
+    Revert "Usuniecie jednej linijki z refren-1.txt"
+    
+    This reverts commit 915ff36b59c668972110f713454ed3bf16f8349c.
+    Cofniecie usuniecia linijki w refrenie
+
+commit 915ff36b59c668972110f713454ed3bf16f8349c
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:43:38 2023 +0100
+
+    Usuniecie jednej linijki z refren-1.txt
+
+commit e7616d9ee3d57eda26a2c5713ce5695e30138504
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:39:50 2023 +0100
+
+    Wyciecie trzeciej zwrotki
+
+commit e3addcec322c991936a35082a3e191a469e4dd53
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:37:47 2023 +0100
+
+    Wyciecie drugiego refrenu
+
+commit 28ba3a92f2b19c9dd2214cf3205fbbdfa771fa61
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:33:34 2023 +0100
+
+    Wyciecie drugiej zwrotki
+
+commit f87189c9518993d3a5bf770e85d991d7eadc5078
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:30:11 2023 +0100
+
+    Wyciecie pierwszego refrenu
+
+commit eb7216b979e5159a058bf70234158f3770d05eab
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:26:09 2023 +0100
+
+    Wyciecie pierwszej zwrotki
+
+commit 4f64b746003eb39458e3eb91c727ef56e5ad5070
+Author: kuba <kuba@email.com>
+Date:   Thu Dec 14 21:05:40 2023 +0100
+
+    Utworzenie pliku piosenka.txt
